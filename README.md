@@ -7,3 +7,7 @@ As I don't have a capable PC. I'm using [Freesubtitles.ai](https://freesubtitles
 
  In short I hope for this repository to be what 'Kitsuneko' is for Japanese. A public archive for all to cotribute to and benefit from.
 
+ **Therefore, I urge language learners who have the time and are willing to either use the [site](https://freesubtitles.ai/). Or better yet, have a capable PC to use [whisper AI](https://github.com/openai/whisper) or [Buzz](https://github.com/chidiwilliams/buzz) to generate subtitle files. It would be much appreciated.**
+
+ And if someone has any suggestions about anything I said, please contact me via Discord (aizenmikoto).
+
